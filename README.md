@@ -26,7 +26,8 @@ This project uses an LSTM (Long Short-Term Memory) neural network to predict fut
 
 ## Install Requirements
 
-Use this if running locally:pip install -r requirements.txt
+Use this if running locally:
+pip install -r requirements.txt
 ## Dataset
 
 - **Name:** all_stocks_5yr.csv
